@@ -1,0 +1,28 @@
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.exe
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.deps.json
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.runtimeconfig.json
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.runtimeconfig.dev.json
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.dll
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.pdb
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.csproj.AssemblyReference.cache
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.AssemblyInfoInputs.cache
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.AssemblyInfo.cs
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.dll
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.pdb
+C:\Users\rodvi\Workspace\Visual Studio\TesteDeveloper\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.genruntimeconfig.cache
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.exe
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.deps.json
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.runtimeconfig.json
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.runtimeconfig.dev.json
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.dll
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\bin\Debug\netcoreapp3.1\TesteDeveloper.pdb
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.csproj.AssemblyReference.cache
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.AssemblyInfoInputs.cache
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.AssemblyInfo.cs
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.dll
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.pdb
+C:\Users\Rian\Downloads\TesteDeveloperResolvido\TesteDeveloper\obj\Debug\netcoreapp3.1\TesteDeveloper.genruntimeconfig.cache
